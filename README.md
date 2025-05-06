@@ -18,8 +18,5 @@ Ambos os scripts recebem como entrada uma cadeia `w` e um valor de bombeamento `
 - Python 3.x
 
 
-## 🧠 Conclusão
-
-Este projeto ajuda a consolidar o entendimento sobre a aplicação prática do Lema do Bombeamento em linguagens formais. A estrutura automatizada facilita a visualização das divisões possíveis da cadeia e os efeitos do bombeamento.
 
 
